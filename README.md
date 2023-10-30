@@ -4,7 +4,7 @@
 
 相关项目
 
-- [PyQt Demo](https://github.com/hongyaohongyao/smart_classroom_demo) 
+- [PyQt Demo](https://github.com/0yws/demo) 
 - [Java 版本](https://github.com/hongyaohongyao/SmartClassroomJava)
 - [前后端系统版](https://github.com/hongyaohongyao/smart_classroom_system)
 
